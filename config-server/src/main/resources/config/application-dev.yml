@@ -9,4 +9,4 @@ management:
           - '*'
 greeting-service:
   greeting: "Hello"
-  default-value: "my Dick"
+  default-value: "my project"
